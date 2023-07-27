@@ -42,7 +42,8 @@ To sketch the given drawing with dimensions using fusion 360 tool.
 ![image](https://user-images.githubusercontent.com/113594316/198208087-87ed794e-5f1c-4583-82e0-f29699dfc305.png)
 
 ## OUTPUT
-![1 1_page-0001](https://github.com/23000285/Ex.No.-1.1---Design-and-Draft-the-given-2D-Sketches-in-modelling-software./assets/138970859/4cda05cd-709d-4395-a0f8-6ebad54ab42b)
+![VENKAT 1 1 JPG](https://github.com/23000285/Ex.No.-1.1---Design-and-Draft-the-given-2D-Sketches-in-modelling-software./assets/138970859/2fb18d90-900d-4994-a33b-17e67378a981)
+
 
 
 ## RESULT
